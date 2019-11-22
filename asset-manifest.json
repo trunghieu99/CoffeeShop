@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.59f090ef.chunk.css",
+    "main.js": "/static/js/main.208417ec.chunk.js",
+    "main.js.map": "/static/js/main.208417ec.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.65ac8c94.js",
+    "runtime-main.js.map": "/static/js/runtime-main.65ac8c94.js.map",
+    "static/js/2.192c63f6.chunk.js": "/static/js/2.192c63f6.chunk.js",
+    "static/js/2.192c63f6.chunk.js.map": "/static/js/2.192c63f6.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.86d04be636272f07c298e627361301d5.js": "/precache-manifest.86d04be636272f07c298e627361301d5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.59f090ef.chunk.css.map": "/static/css/main.59f090ef.chunk.css.map",
+    "static/media/coffee_logo_4.png": "/static/media/coffee_logo_4.c509ae1b.png",
+    "static/media/introImg.jpg": "/static/media/introImg.b0df04a4.jpg",
+    "static/media/logo.svg": "/static/media/logo.25bf045c.svg",
+    "static/media/slide_img_1.jpg": "/static/media/slide_img_1.654727d7.jpg",
+    "static/media/slide_img_2.jpg": "/static/media/slide_img_2.b29947a1.jpg",
+    "static/media/menu.css": "/static/media/slide_img_3.c14d69b5.jpg",
+    "static/media/slide_img_4.jpg": "/static/media/slide_img_4.55dc1f64.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65ac8c94.js",
+    "static/js/2.192c63f6.chunk.js",
+    "static/css/main.59f090ef.chunk.css",
+    "static/js/main.208417ec.chunk.js"
+  ]
+}
